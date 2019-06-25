@@ -1,0 +1,6 @@
+repo: e23aaffd0b8a796721cd03b22a4aaa55ceaa04e2
+node: 291ec864c25f70af6130b7506ea23b77f1c84096
+branch: default
+latesttag: timerboard-1.0
+latesttagdistance: 1
+changessincelatesttag: 1
